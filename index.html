@@ -12,7 +12,7 @@
     </style>
 </head>
 
-<body>
+<body style="background-color: burlywood;">
     <!-- red container div -->
     <div style="position: relative; display: inline-block;">
 
@@ -94,7 +94,79 @@
         font-size: 64px;
         color: black;
         ">A Tie</div>
-        <canvas></canvas>
+
+        <canvas style="border: 4px solid black;"></canvas>
+
+        <div style="
+            position: relative;
+            top: 0; 
+            bottom: 0; 
+            right: 0; 
+            left: 0;
+            font-size: 36px;
+        ">Controls: Player 1
+        </div>
+        <div style="
+            position: absolute;
+            top: 550px; 
+            bottom: 0; 
+            right: 0; 
+            left: -150px;
+        ">
+            <img class=" imgSetas" src="./img/keyboards/wasd.png"
+                alt="Teclas ArrowUp, ArrowLeft, ArrowDown, ArrowRight">
+        </div>
+        <div style="
+            position: absolute;
+            display: flex;
+            top: 800px; 
+            bottom: 0; 
+            right: 0; 
+            left: 0;
+        ">
+        </div>
+
+        <div>
+            <p style=" 
+                position: absolute; 
+                display: flex;
+                justify-content: center; 
+                top: 650px;
+                bottom: 0; 
+                right: 0; 
+                left: 0; 
+            ">
+                W or ArrowUp for Jump
+                <br>
+                A or ArrowLeft for Left
+                <br>
+                D or ArrowRight for Right
+                <br>
+                S or ArrowDown for Attack
+            </p>
+        </div>
+
+
+
+        <div
+            style=" position: relative; display: flex; top: -55px; bottom: 0; right: 0; left: 730px; font-size: 36px; ">
+            Controls: Player 2
+        </div>
+        <div style=" position: absolute; top: 550px; bottom: 0; right: 0; left: 570px; ">
+            <img class=" imgSetas" src="./img/keyboards/setinhas.png"
+                alt="Teclas ArrowUp, ArrowLeft, ArrowDown, ArrowRight">
+        </div>
+
+        <div style="
+        position: absolute;
+        display: flex;
+        justify-content: left;;
+        top: 900px; 
+        bottom: 0; 
+        right: 0; 
+        left: 0;
+    ">&copy; Copyright 2022 - Eduardo Zaniboni
+        </div>
     </div>
 
     <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.10.2/gsap.min.js"
