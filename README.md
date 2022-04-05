@@ -1,6 +1,6 @@
 # eduwz-fighting-game
 
-# English
+> English
 
 Objetive List:
     [x] Project Setup
@@ -15,7 +15,7 @@ About the project:
     - I made this game just to improve my technical knowledge in the area, deepening my understanding of the JavaScript language and improving every day more.
     - I plan to implement my updates on this project as my knowledge evolves.
 
-# Português
+> Português
 
 Lista de Objetivos:
     [x] Configuracao do Projeto
