@@ -1,4 +1,4 @@
-# eduwz-fighting-game
+# Sword Fighting Game
 
 > English
 
@@ -14,6 +14,8 @@ About the project:
     - This project is based on a YouTube video tutorial from Chris Courses channel - JavaScript Fighting Game Tutorial with HTML Canvas (https://www.youtube.com/watch?v=vyqbNFMDRGQ).
     - I made this game just to improve my technical knowledge in the area, deepening my understanding of the JavaScript language and improving every day more.
     - I plan to implement my updates on this project as my knowledge evolves.
+    
+# Jogo de Luta de Espadas
 
 > Português
 
