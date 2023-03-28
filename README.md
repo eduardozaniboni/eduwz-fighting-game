@@ -31,3 +31,5 @@ Sobre o projeto:
     - Esse projeto foi baseado em um vídeo de tutorial no Youtube do canal Chris Courses - JavaScript Fighting Game Tutorial with HTML Canvas (https://www.youtube.com/watch?v=vyqbNFMDRGQ).
     - Eu fiz esse jogo apenas para melhorar meu conhecimento técnico na área, aprofundando meu entendimento da linguagem JavaScript and melhorar cada dia mais.
     - Eu planejo implementar minhas atualizações neste projeto à medida que evoluo meu conhecimento.
+
+> Project link: https://luminous-pony-281bcb.netlify.app/
